@@ -6,7 +6,7 @@ This is a project for measuring AC power using STM32.
 
 ## Purpose
 
-This project is created to design and develop a simple and effective AC power measurement circuit using ESP32 and common electronic components.
+This project is created to design and develop a simple and effective AC power measurement circuit using STM32 and common electronic components.
 
 ## Key Features
 
